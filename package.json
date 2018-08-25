@@ -9,6 +9,12 @@
         "start": "coffee test/server.coffee"
     },
     "repository": "madrobby/zepto",
+    "files": [
+      "src",
+      "dist",
+      "make",
+      "MIT-LICENSE"
+    ],
     "license": "MIT",
     "devDependencies": {
         "uglify-js": "2.4.x",
